@@ -22,7 +22,7 @@ Visual Studio 2019
 
 ### Postman Collection Scripts
 
-NancyJWTAuth.postman_collection.json
+[NancyJWTAuth.postman_collection.json](https://github.com/ongyishen/CSharpNancyJWTAuth/blob/main/NancyJWTAuth.postman_collection.json)
 
 
 
